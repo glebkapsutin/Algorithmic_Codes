@@ -1,0 +1,39 @@
+# Сгенерированные файлы компиляции
+bin/
+obj/
+
+# Файлы Visual Studio
+*.csproj.user
+*.suo
+*.user
+*.sln.docstates
+.vs/
+.vscode/
+
+# Файлы NuGet
+*.nupkg
+packages/
+!packages.config
+
+# Файлы тестов
+TestResults/
+
+# Файлы Rider (JetBrains)
+.idea/
+*.iml
+
+# Временные файлы
+*.tmp
+*.bak
+*.log
+
+# Системные файлы (Windows)
+Thumbs.db
+desktop.ini
+
+# Файлы отладки
+*.pdb
+*.mdb
+
+# Файлы кэша
+*.cache
