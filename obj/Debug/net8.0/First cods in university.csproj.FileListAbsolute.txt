@@ -1,0 +1,15 @@
+/Users/glebkapustin/Desktop/Cods/First cods in university/bin/Debug/net8.0/First cods in university
+/Users/glebkapustin/Desktop/Cods/First cods in university/bin/Debug/net8.0/First cods in university.deps.json
+/Users/glebkapustin/Desktop/Cods/First cods in university/bin/Debug/net8.0/First cods in university.runtimeconfig.json
+/Users/glebkapustin/Desktop/Cods/First cods in university/bin/Debug/net8.0/First cods in university.dll
+/Users/glebkapustin/Desktop/Cods/First cods in university/bin/Debug/net8.0/First cods in university.pdb
+/Users/glebkapustin/Desktop/Cods/First cods in university/obj/Debug/net8.0/First cods in university.GeneratedMSBuildEditorConfig.editorconfig
+/Users/glebkapustin/Desktop/Cods/First cods in university/obj/Debug/net8.0/First cods in university.AssemblyInfoInputs.cache
+/Users/glebkapustin/Desktop/Cods/First cods in university/obj/Debug/net8.0/First cods in university.AssemblyInfo.cs
+/Users/glebkapustin/Desktop/Cods/First cods in university/obj/Debug/net8.0/First cods in university.csproj.CoreCompileInputs.cache
+/Users/glebkapustin/Desktop/Cods/First cods in university/obj/Debug/net8.0/First cods in university.sourcelink.json
+/Users/glebkapustin/Desktop/Cods/First cods in university/obj/Debug/net8.0/First cods in university.dll
+/Users/glebkapustin/Desktop/Cods/First cods in university/obj/Debug/net8.0/refint/First cods in university.dll
+/Users/glebkapustin/Desktop/Cods/First cods in university/obj/Debug/net8.0/First cods in university.pdb
+/Users/glebkapustin/Desktop/Cods/First cods in university/obj/Debug/net8.0/First cods in university.genruntimeconfig.cache
+/Users/glebkapustin/Desktop/Cods/First cods in university/obj/Debug/net8.0/ref/First cods in university.dll
