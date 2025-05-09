@@ -1,3 +1,5 @@
+using System.Linq;
+
 public class Solution
 {
     public void Merge(int[] nums1, int m, int[] nums2, int n)
@@ -131,6 +133,42 @@ public class Solution
 
         }
         return false;
+    }
+    public int MinSubArrayLen(int target, int[] nums)
+    {
+        // Проверка краевых случаев
+        if (nums.Length == 0 || nums.Sum() < target)
+        {
+            return 0;
+        }
+
+        int start = 0;
+        int end = 0;
+        int currentSum = 0;
+        int minLength = int.MaxValue;
+
+        // Пока end не достиг конца массива
+        while (end < nums.Length)
+        {
+            // Добавляем элемент в сумму
+            currentSum += nums[end];
+
+            // Если сумма >= target, пытаемся уменьшить окно
+            while (currentSum >= target)
+            {
+                // Обновляем минимальную длину
+                minLength = Math.Min(minLength, end - start + 1);
+                // Уменьшаем окно, убирая элемент с начала
+                currentSum -= nums[start];
+                start++;
+            }
+
+            // Расширяем окно
+            end++;
+        }
+
+        // Если minLength не изменился, возвращаем 0
+        return minLength == int.MaxValue ? 0 : minLength;
     }
 
 }
