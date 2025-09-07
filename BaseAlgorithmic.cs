@@ -34,6 +34,7 @@ namespace First_cods_in_university.Sort
                }
                else{
                 right = middle - 1;
+                
                }
 
             }
