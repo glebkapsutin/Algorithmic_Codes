@@ -30,11 +30,12 @@ namespace First_cods_in_university.Sort
                 }
                if(a[middle] < t)
                {
+                
                 left = middle +1;
                }
                else{
                 right = middle - 1;
-                
+
                }
 
             }
