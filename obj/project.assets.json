@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/glebkapustin/Desktop/Cods/First cods in university/First cods in university.csproj",
+      "projectUniqueName": "/Users/glebkapustin/Desktop/Cods/Algorithmic_Codes/First cods in university.csproj",
       "projectName": "First cods in university",
-      "projectPath": "/Users/glebkapustin/Desktop/Cods/First cods in university/First cods in university.csproj",
+      "projectPath": "/Users/glebkapustin/Desktop/Cods/Algorithmic_Codes/First cods in university.csproj",
       "packagesPath": "/Users/glebkapustin/.nuget/packages/",
-      "outputPath": "/Users/glebkapustin/Desktop/Cods/First cods in university/obj/",
+      "outputPath": "/Users/glebkapustin/Desktop/Cods/Algorithmic_Codes/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/glebkapustin/.nuget/NuGet/NuGet.Config"
