@@ -16,7 +16,7 @@ namespace First_cods_in_university
         static int Main()
         {
             string a = 'aaab';
-            string b = 'aaaaajfghc';
+            string b = 'aaaaajhc';
             Solution solution = new Solution();
             bool b = solution.CanConstruct(a, b);
             Console.WriteLine(b);

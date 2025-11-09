@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("First cods in university")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+589fb877151067588c49df82b212bfb500f10df2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77778dc571bb771ff0db41cf2f7f0899e5487e8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("First cods in university")]
 [assembly: System.Reflection.AssemblyTitleAttribute("First cods in university")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

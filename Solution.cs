@@ -209,8 +209,26 @@ public class Solution
     }
     public bool CanConstruct(string ransomNote, string magazine)
     {
-        Dictionary<char> Words = new Dictionary<char, int>();
+        Dictionary<char> magazineCounts = new Dictionary<char, int>();
 
-        
+        foreach (char item in magazine)
+        {
+            if (magazineCounts.ContainsKey(item))
+            {
+                magazineCounts[item]++;
+            }
+            else magazineCounts.Add(item, 1);
+
+            
+        }
+        foreach (char c in ransomNote)
+        {
+            if (magazineCounts.ContainsKey(c) && magazineCounts[c] > 0)
+            {
+                magazineCounts[c]--;
+            }
+            else return false;
+        }
+        return true;
     }
 }
