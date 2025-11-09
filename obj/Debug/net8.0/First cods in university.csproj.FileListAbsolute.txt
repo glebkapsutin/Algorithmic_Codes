@@ -13,3 +13,11 @@
 /Users/glebkapustin/Desktop/Cods/First cods in university/obj/Debug/net8.0/First cods in university.pdb
 /Users/glebkapustin/Desktop/Cods/First cods in university/obj/Debug/net8.0/First cods in university.genruntimeconfig.cache
 /Users/glebkapustin/Desktop/Cods/First cods in university/obj/Debug/net8.0/ref/First cods in university.dll
+C:\Users\Home\source\repos\Algorithmic_Codes\obj\Debug\net8.0\First cods in university.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\Algorithmic_Codes\obj\Debug\net8.0\First cods in university.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\Algorithmic_Codes\obj\Debug\net8.0\First cods in university.AssemblyInfo.cs
+C:\Users\Home\source\repos\Algorithmic_Codes\obj\Debug\net8.0\First cods in university.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Algorithmic_Codes\obj\Debug\net8.0\First cods in university.sourcelink.json
+C:\Users\Home\source\repos\Algorithmic_Codes\obj\Debug\net8.0\First cods in university.dll
+C:\Users\Home\source\repos\Algorithmic_Codes\obj\Debug\net8.0\refint\First cods in university.dll
+C:\Users\Home\source\repos\Algorithmic_Codes\obj\Debug\net8.0\First cods in university.pdb

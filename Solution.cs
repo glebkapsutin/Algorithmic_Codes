@@ -207,5 +207,10 @@ public class Solution
             right--;
         }
     }
+    public bool CanConstruct(string ransomNote, string magazine)
+    {
+        Dictionary<char> Words = new Dictionary<char, int>();
 
+        
+    }
 }
