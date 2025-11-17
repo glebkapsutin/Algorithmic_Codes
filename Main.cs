@@ -20,7 +20,7 @@ namespace First_cods_in_university
             Solution solution = new Solution();
             bool b = solution.CanConstruct(a, b);
             Console.WriteLine(b);
-
+            Console.WriteLine("A");
             
             return 0;
         }
